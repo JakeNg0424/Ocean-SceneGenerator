@@ -1,4 +1,8 @@
 # Ocean
+
+Result:
+![](assets/result.gif)
+
 This project offers a generative, living impression of this inspiring image:
 ![](assets/Ocean%20-%20Inspiring%20Image.jpg)
 
