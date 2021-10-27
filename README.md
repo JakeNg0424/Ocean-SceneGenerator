@@ -1,5 +1,7 @@
 # Ocean
 
+### *[Run Generator](https://jakeng0424.github.io/Ocean-SceneGenerator/index.html)*
+
 Result:
 ![](assets/result.gif)
 
